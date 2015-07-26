@@ -12,9 +12,9 @@
     "rickshaw",
     "import"
   ],
-  "main": "import-d3.html",
+  "main": "import-rickshaw.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/JaySunSyn/import-d3",
+  "homepage": "https://github.com/JaySunSyn/import-rickshaw.git",
   "ignore": [
     "/.*",
     "/test/",
