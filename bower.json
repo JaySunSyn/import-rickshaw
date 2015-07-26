@@ -1,0 +1,32 @@
+{
+  "name": "import-rickshaw",
+  "version": "1.0.0",
+  "authors": [
+    "Jalal Fathi <jfathi.mail@gmail.com> (http://jalal.io)"
+  ],
+  "description": "The import element of the rickshaw charts library.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "rickshaw",
+    "import"
+  ],
+  "main": "import-d3.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/JaySunSyn/import-d3",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "rickshaw": "~1.5.1",
+    "d3": "~3.5.6"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
