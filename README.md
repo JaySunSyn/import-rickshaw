@@ -1,4 +1,4 @@
-# import-d3
+# import-rickshaw
 
 An element providing the import of the D3 library.
 
